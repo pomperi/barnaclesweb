@@ -1,0 +1,26 @@
+body {
+    background: #B2CEC9;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #E5E5E5;
+    
+}
+
+freetitle {
+    padding: 2px 36px 2px 20px;
+    background-color: #262626;
+    font-size: 1.5em;
+    color: #E5E5E5;
+    font-family: "Georgia", serif;
+    font-style: italic;
+}
+
+#logo {
+    padding: 14px 0px 20px 0px;
+}
+
+img.resize {
+    max-width: 100%;
+}
