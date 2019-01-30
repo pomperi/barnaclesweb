@@ -2,19 +2,32 @@ body {
     background: #B2CEC9;
 }
 
+p {
+    font-size: 1em;
+    color: #262626;
+    font-family: "Raleway", sans-serif;
+}
+
 h1 {
-    font-size: 1.5em;
+    font-size: 1.8em;
     color: #E5E5E5;
-    
+}
+
+main {
+    padding: 18px 32px 4px 58px;
+    background-color: #E5E5E5;
+    width: 38em;
+    max-width: 80vw;
 }
 
 freetitle {
-    padding: 2px 36px 2px 20px;
+    padding: 4px 36px 10px 20px;
     background-color: #262626;
-    font-size: 1.5em;
+    font-size: 1.8em;
     color: #E5E5E5;
     font-family: "Georgia", serif;
     font-style: italic;
+    
 }
 
 #logo {
